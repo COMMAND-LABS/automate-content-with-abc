@@ -27,4 +27,4 @@ https://airtable.com/appwG9Dfv8Soauzm8/shrLVA6SZmMU6bj8C/tblnW5EvZbNhgB1Jj/viwbc
 
 - A laptop
 - An Anthropic subscription
-- A 
+- A LinkedIn account
