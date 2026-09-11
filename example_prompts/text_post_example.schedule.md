@@ -2,11 +2,11 @@
 
 Schedule approved content
 
-Only schedule the approved content in Airtable from the `Content` table to all the relevant Blotato brands and platform accounts outlined below. Content MUST BE checked as being approved.
+Only schedule the approved content in Airtable from the `Content` table to all the relevant Blotato connected accounts outlined below. Content MUST BE checked as being approved.
 
-## RELEVANT BRANDS
+## RELEVANT CONNECTED ACCOUNTS
 
-Tad - (LinkedIn)
+<LIST_YOUR_SOCIAL_MEDIA_ACCOUNTS_HERE>
 
 ## REQUIREMENTS
 
@@ -20,4 +20,4 @@ Tad - (LinkedIn)
 
 ## DISTRIBUTE AT THE FOLLOWING DATE/TIME
 
-Distribute the approved content on 9/7/2026 at 9am ET
+<DESIRED_TIME_HERE>
