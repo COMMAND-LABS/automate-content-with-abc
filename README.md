@@ -13,7 +13,7 @@ https://airtable.com/appwG9Dfv8Soauzm8/shrLVA6SZmMU6bj8C/tblnW5EvZbNhgB1Jj/viwbc
 ## Other links
 
 - https://www.linkedin.com/signup
-- https://www.blotato.com/pricing
+- 
 - https://claude.com/download
 - https://airtable.com/signup
 
@@ -27,4 +27,6 @@ https://airtable.com/appwG9Dfv8Soauzm8/shrLVA6SZmMU6bj8C/tblnW5EvZbNhgB1Jj/viwbc
 
 - A laptop
 - An Anthropic subscription
-- A LinkedIn account
+- An Airtable account
+- A Blotato account
+  - A LinkedIn account
